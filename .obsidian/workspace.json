@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "4efef46489c0e4ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab195985a76ae69e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c6babd49d661e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2020-04-04-introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff6d844de3949c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-3-21-nothing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d63c15749738312a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b483305785a5826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "319b6e0458bbb334",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7190f9bc6221007e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f514420c3f4f63f2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbd6a33addef68f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "589761fcbfbbc777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "597de880539c2261",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-3-21-nothing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bb05a1d52ebb711",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-3-21-nothing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba707bdccd42fc15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6678515c5e2568a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-3-21-nothing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ff6d844de3949c87",
+  "lastOpenFiles": [
+    "_site/2023/03/21/2023-3-21-nothing/index.html",
+    "_site/2023/03/21/2023-3-21-nothing",
+    "_site/2023/03/21",
+    "_site/2023/03/20/2023-3-21-nothing/index.html",
+    "_site/2023/03/20/2023-3-21-nothing",
+    "_site/2023/03/20",
+    "_site/2023/03",
+    "_site/2023",
+    "_site/page5/index.html",
+    "_site/page5",
+    "_posts/2020-04-04-introduction.md",
+    "_posts/2023-3-21-nothing.md",
+    "_posts/2020-04-03-options.md",
+    "_posts/2020-04-02-example-content.md",
+    "_posts/2020-03-01-whats-jekyll.md"
+  ]
+}
