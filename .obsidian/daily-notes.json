@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "_posts",
+  "autorun": true,
+  "template": "templpate/tem"
+}
