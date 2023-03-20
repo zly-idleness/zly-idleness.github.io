@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-21-lalala.md",
+                "file": "_posts/2023-03-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-21-lalala.md",
+                "file": "_posts/2023-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-21-lalala.md",
+                "file": "_posts/2023-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-21-lalala.md"
+                "file": "_posts/2023-03-21.md"
               }
             }
           }
@@ -161,12 +161,13 @@
   },
   "active": "9b6571cc497ff7c8",
   "lastOpenFiles": [
+    "_posts/2023-03-21-lalala.md",
+    "_posts/2023-03-21.md",
     "_site/2023/03/21/lalala/index.html",
     "_site/2023/03/21/lalala",
     "_site/page6/index.html",
     "_site/page6",
     "templpate/tem.md",
-    "_posts/2023-03-21-lalala.md",
     "_site/templpate/tem/index.html",
     "_site/templpate/tem",
     "_site/templpate/tem.md",
@@ -178,7 +179,6 @@
     "_posts/2023-3-21-nothing.md",
     "_site/2023/03/21/2023-3-21-nothing/index.html",
     "_site/2023/03/21/2023-3-21-nothing",
-    "_site/2023/03/21",
     "_posts/2020-04-04-introduction.md",
     "_posts/2020-04-03-options.md",
     "_posts/2020-04-02-example-content.md",
