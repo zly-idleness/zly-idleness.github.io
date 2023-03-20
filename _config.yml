@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: zly
+  url: www.zly.love
+  email: zly.idleness@gmail.com
 
 # Custom vars
 version: 3.0.0
