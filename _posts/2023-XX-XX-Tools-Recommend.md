@@ -54,7 +54,7 @@ zsh的配置优化工具 -  比OMZ好用多了
 ### fastfetch
 打印本地机器状态（方便装杯）， 比neofetch快
 
-### joshuto 
+### yazi 
 CLI文件管理器，比ranger快很多
 
 ### lazygit 
