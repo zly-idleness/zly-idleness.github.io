@@ -9,7 +9,7 @@ tags: [OS]     # TAG names should always be lowercase
 # OSLAB总结
 
 
-
+test
 本校的OS实验搬来了XV6，并进行了一些改动，本文一是对OS实验过程的一个记录，二是对操作系统的一些机制进行简单梳理。
 
 ## 实验二 SYSCALL
