@@ -1,3 +1,12 @@
+---
+title: 哲学史梳理
+date: 2023-XX-XX +0800
+categories: [Philosophy]
+tags: [Philosophy]     # TAG names should always be lowercase
+---
+
+
+
 # **哲学史梳理**
 
 # 古代希腊哲学
