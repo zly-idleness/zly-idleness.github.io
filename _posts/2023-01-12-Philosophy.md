@@ -2,7 +2,7 @@
 title: Philosophy
 date: 2023-01-12 +0800
 categories: [Philosophy]
-tags: [Philosophy]     # TAG names should always be lowercase
+tags: [philosophy]     # TAG names should always be lowercase
 ---
 
 

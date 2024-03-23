@@ -2,9 +2,8 @@
 title: OSLAB
 date: 2024-02-17 +0800
 categories: [OS,REVIEW]
-tags: [OS]     # TAG names should always be lowercase
+tags: [os]     # TAG names should always be lowercase
 ---
-
 
 # OSLAB总结
 
@@ -107,10 +106,10 @@ struct proc {
     UNUSED：在进程池中，尚未使用，还没有被分配出去；
     USED：刚从进程池中分配出去，但是此时进程相关资源还没分配；
     ZOMBIE：僵尸状态，当一个进程执行完成的时候，会调用 exit 退出，此时进程会进入这个状态，需要等待父进程调用 wait 来回收子进程所有剩下的资源；
-
-	当一个子进程执行 exit 退出，但是父进程一直没有调用 wait 来回收子进程的资源，这个时候这个子进程就被称为僵尸进程；
-
-	如果子进程退出之前，父进程就已经终止了，此时子进程还在运行，这个进程就称为孤儿进程，孤儿进程会被 init 进程所接管，最后会由 init 进程调用 wait 来释放资源；
+    
+    当一个子进程执行 exit 退出，但是父进程一直没有调用 wait 来回收子进程的资源，这个时候这个子进程就被称为僵尸进程；
+    
+    如果子进程退出之前，父进程就已经终止了，此时子进程还在运行，这个进程就称为孤儿进程，孤儿进程会被 init 进程所接管，最后会由 init 进程调用 wait 来释放资源；
 
 再看看fork时子进程是怎么创建的
 

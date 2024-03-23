@@ -2,7 +2,7 @@
 title: Tools-Recommend
 date: 2023-09-10 +0800
 categories: [Tools]
-tags: [Tools]     # TAG names should always be lowercase
+tags: [tools]     # TAG names should always be lowercase
 ---
 
 
