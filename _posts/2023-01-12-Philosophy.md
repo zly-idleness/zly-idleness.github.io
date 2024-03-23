@@ -1,5 +1,5 @@
 ---
-title: 哲学史梳理
+title: Philosophy
 date: 2023-01-12 +0800
 categories: [Philosophy]
 tags: [Philosophy]     # TAG names should always be lowercase
