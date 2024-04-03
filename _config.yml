@@ -16,7 +16,7 @@ timezone: Asia/Hong_Kong(HKT)
 
 title: ZLY-Blog # the main title
 
-tagline: My thinkings # it will display as the sub-title
+tagline: My thoughts # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Something meaningless
